@@ -1,0 +1,965 @@
+CRITICAL - 2024-02-28 00:30:50 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ukk_richard\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ukk_richard\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(114): CodeIgniter\Model->__call('input', Array)
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#4 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-28 00:31:35 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ukk_richard\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ukk_richard\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(114): CodeIgniter\Model->__call('input', Array)
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#4 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-28 00:31:42 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ukk_richard\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ukk_richard\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(114): CodeIgniter\Model->__call('input', Array)
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#4 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-28 00:41:03 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ukk_richard\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ukk_richard\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(114): CodeIgniter\Model->__call('input', Array)
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#4 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-28 00:42:45 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ukk_richard\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ukk_richard\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(114): CodeIgniter\Model->__call('input', Array)
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#4 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-28 00:43:08 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ukk_richard\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ukk_richard\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(114): CodeIgniter\Model->__call('input', Array)
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#4 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-28 00:45:07 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ukk_richard\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ukk_richard\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(116): CodeIgniter\Model->__call('input', Array)
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#4 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2024-02-28 00:45:32 --> Column 'kode_barang' cannot be null
+ERROR - 2024-02-28 00:45:32 --> Column 'jumlah' cannot be null
+ERROR - 2024-02-28 00:46:05 --> Column 'kode_barang' cannot be null
+ERROR - 2024-02-28 00:46:05 --> Column 'jumlah' cannot be null
+ERROR - 2024-02-28 00:47:06 --> Column 'kode_barang' cannot be null
+ERROR - 2024-02-28 00:47:06 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 00:47:44 --> Column 'kode_barang' cannot be null
+ERROR - 2024-02-28 00:47:44 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 00:48:32 --> Column 'kode_barang' cannot be null
+ERROR - 2024-02-28 00:48:32 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 00:49:53 --> Unknown column 'nama_barang' in 'field list'
+CRITICAL - 2024-02-28 00:59:46 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard\app\Views\filter.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\ukk_richard\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard\system\Common.php(1089): CodeIgniter\View\View->render('filter', Array, true)
+#4 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(168): view('filter', Array)
+#5 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->laporan_pdf()
+#6 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 01:26:00 --> Unknown column 'barang' in 'field list'
+ERROR - 2024-02-28 01:28:57 --> Unknown column 'jumlah' in 'where clause'
+CRITICAL - 2024-02-28 01:28:57 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(119): App\Models\M_model->getWhere2('barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:29:43 --> Unknown column 'jumlah' in 'where clause'
+CRITICAL - 2024-02-28 01:29:43 --> Call to a member function getRow() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(119): App\Models\M_model->getWhere2('barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:29:49 --> Unknown column 'jumlah' in 'where clause'
+CRITICAL - 2024-02-28 01:29:49 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(119): App\Models\M_model->getWhere2('barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:30:12 --> Table 'ukk_kasir.id_barang' doesn't exist
+CRITICAL - 2024-02-28 01:30:12 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(119): App\Models\M_model->getWhere2('id_barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:32:09 --> Table 'ukk_kasir.id_barang' doesn't exist
+CRITICAL - 2024-02-28 01:32:09 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(119): App\Models\M_model->getWhere2('id_barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:40:27 --> Table 'ukk_kasir.id_barang' doesn't exist
+CRITICAL - 2024-02-28 01:40:27 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(119): App\Models\M_model->getWhere2('id_barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:41:58 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 01:54:39 --> Table 'ukk_kasir.id_barang' doesn't exist
+CRITICAL - 2024-02-28 01:54:39 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(111): App\Models\M_model->getWhere2('id_barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:55:13 --> Table 'ukk_kasir.nama_barang' doesn't exist
+CRITICAL - 2024-02-28 01:55:13 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(111): App\Models\M_model->getWhere2('nama_barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:55:19 --> Unknown column 'jumlah' in 'where clause'
+CRITICAL - 2024-02-28 01:55:19 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(111): App\Models\M_model->getWhere2('barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:55:20 --> Unknown column 'jumlah' in 'where clause'
+CRITICAL - 2024-02-28 01:55:20 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(111): App\Models\M_model->getWhere2('barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:57:07 --> Table 'ukk_kasir.id_barang' doesn't exist
+CRITICAL - 2024-02-28 01:57:07 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(111): App\Models\M_model->getWhere2('id_barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:57:31 --> Table 'ukk_kasir.id_barang' doesn't exist
+CRITICAL - 2024-02-28 01:57:31 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\ukk_richard\app\Controllers\Home.php(111): App\Models\M_model->getWhere2('id_barang', Array)
+#1 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 01:58:25 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 01:59:37 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 01:59:57 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 02:04:07 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 02:14:50 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 02:15:44 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 02:16:19 --> Unknown column 'nama_barang' in 'field list'
+ERROR - 2024-02-28 02:17:55 --> Unknown column 'nama_barang' in 'field list'
+CRITICAL - 2024-02-28 05:14:19 --> A non-numeric value encountered
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\htdocs...', 155, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->p_t_barang()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 05:14:29 --> Column 'id_barang' cannot be null
+CRITICAL - 2024-02-28 05:24:47 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\activity.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('activity', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(259): view('activity')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->activity()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 05:26:26 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\activity.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('activity', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(259): view('activity')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->activity()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 05:28:04 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\activity.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('activity', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(259): view('activity')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->activity()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 05:28:05 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\activity.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('activity', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(259): view('activity')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->activity()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 05:35:10 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\activity.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('activity', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(259): view('activity')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->activity()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 05:35:34 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\activity.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('activity', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(259): view('activity')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->activity()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 05:38:14 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\activity.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('activity', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(259): view('activity')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->activity()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 05:50:00 --> Unknown column 'transaksi.id_barang' in 'on clause'
+CRITICAL - 2024-02-28 05:50:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(191): App\Models\M_model->join('barang_masuk', 'barang', 'transaksi.id_ba...')
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->transaksi()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 06:14:32 --> Table 'ukk_kasir.point' doesn't exist
+CRITICAL - 2024-02-28 06:14:32 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(241): App\Models\M_model->filter_transaksi('transaksi', '2024-02-28', '2024-02-28')
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_pdf()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 06:23:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `transaksi`.`tanggal` < IS NULL' at line 5
+CRITICAL - 2024-02-28 06:23:31 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('transaksi', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 06:24:08 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 06:24:08 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 06:24:16 --> Table 'ukk_kasir.point' doesn't exist
+CRITICAL - 2024-02-28 06:24:16 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(241): App\Models\M_model->filter_transaksi('transaksi', '2024-02-28', '2024-02-28')
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_pdf()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 06:25:00 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 06:25:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2024-02-28 06:39:22 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\t_barang.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('t_barang', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(281): view('t_barang')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->t_barang()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 06:58:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 06:58:42 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:00:44 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:00:44 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:03:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:03:27 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:11:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:11:05 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:14:23 --> Column 'nama_supplier' cannot be null
+ERROR - 2024-02-28 07:14:35 --> Table 'ukk_kasir.point' doesn't exist
+CRITICAL - 2024-02-28 07:14:35 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(241): App\Models\M_model->filter_transaksi('transaksi', '2024-02-28', '2024-02-28')
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_pdf()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2024-02-28 07:20:32 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ukk_richard-main\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(241): CodeIgniter\Model->__call('filter_laporan_...', Array)
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_pdf()
+#4 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2024-02-28 07:26:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:26:32 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:27:24 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:27:24 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:30:23 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:30:23 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:32:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:32:54 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:33:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:33:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:37:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:37:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:37:19 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:37:19 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:44:45 --> Not unique table/alias: 'barang_masuk'
+CRITICAL - 2024-02-28 07:44:45 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:44:46 --> Not unique table/alias: 'barang_masuk'
+CRITICAL - 2024-02-28 07:44:46 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(256): App\Models\M_model->filter_barang_masuk('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 07:47:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 07:47:40 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:47:40 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 74, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(263): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 07:49:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 07:49:42 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:49:42 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(263): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 07:52:00 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 07:52:00 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:52:00 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(264): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 07:52:04 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 07:52:04 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:52:04 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(264): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 07:52:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 5
+ERROR - 2024-02-28 07:52:40 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 5
+CRITICAL - 2024-02-28 07:52:40 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(264): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 07:52:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 5
+ERROR - 2024-02-28 07:52:42 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 5
+CRITICAL - 2024-02-28 07:52:42 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(264): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 07:52:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 5
+ERROR - 2024-02-28 07:52:42 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 5
+CRITICAL - 2024-02-28 07:52:42 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(264): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 07:52:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 07:52:52 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:52:52 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(263): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 07:55:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 07:55:06 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 07:55:06 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(260): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 08:00:30 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(267): view('laporan_barang_...')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 08:00:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 08:00:54 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 08:00:54 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(260): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 08:04:47 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 08:04:47 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 08:04:47 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(260): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 08:26:38 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 08:26:38 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 08:26:38 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(260): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 10:02:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:02:28 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 10:02:28 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(260): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 10:04:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:04:03 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:07:19 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:07:19 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:07:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:07:28 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:09:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:09:27 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:13:01 --> Unknown column 'barang_masuk.tanggal' in 'where clause'
+CRITICAL - 2024-02-28 10:13:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(258): App\Models\M_model->filter4('barang_masuk', NULL, NULL)
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 10:19:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:19:40 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 10:19:40 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(260): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 10:24:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:24:37 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 10:24:37 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(260): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 10:25:24 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:25:24 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 10:25:24 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\laporan_barang_masuk.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('laporan_barang_...', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(260): view('laporan_barang_...', Array)
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 10:25:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:25:52 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:26:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+ERROR - 2024-02-28 10:26:02 --> Database Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL
+AND `barang_masuk`.`tanggal` < IS NULL' at line 4
+CRITICAL - 2024-02-28 10:26:02 --> Invalid file: tanggal.php
+#0 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tanggal.php')
+#1 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('tanggal', Array, true)
+#2 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(261): view('tanggal')
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_barang_masuk()
+#4 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2024-02-28 10:45:55 --> Unknown column 'barang_masuk.tanggal' in 'where clause'
+CRITICAL - 2024-02-28 10:45:55 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(261): App\Models\M_model->filter5('barang_masuk', 'barang_masuk.id...', '2024-02-01', '2024-03-09')
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_bm()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 10:49:13 --> Unknown column 'barang_masuk.tanggal' in 'where clause'
+CRITICAL - 2024-02-28 10:49:13 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(261): App\Models\M_model->filter5('barang_masuk', 'barang_masuk.id...', '2024-02-01', '2024-03-09')
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_bm()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 10:50:22 --> Unknown column 'barang_masuk.tanggal' in 'where clause'
+CRITICAL - 2024-02-28 10:50:22 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(261): App\Models\M_model->filter5('barang_masuk', 'barang_masuk.id...', '2024-02-01', '2024-03-09')
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_bm()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 10:51:20 --> Unknown column 'barang_masuk.tanggal' in 'where clause'
+CRITICAL - 2024-02-28 10:51:20 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(261): App\Models\M_model->filter5('barang_masuk', 'barang_masuk.id...', '2024-02-01', '2024-03-09')
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_bm()
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2024-02-28 10:52:19 --> Class 'Dompdf\Dompdf' not found
+#0 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->laporan_bm()
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2024-02-28 18:18:12 --> Column 'nama_supplier' cannot be null
+CRITICAL - 2024-02-28 18:22:47 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\ukk_richard-main\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/laporan_ba...')
+#1 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/laporan_ba...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-28 18:26:39 --> Column 'keranjang' cannot be null
+CRITICAL - 2024-02-28 18:29:03 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\keranjang.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('keranjang', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(333): view('keranjang')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->keranjang()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 18:29:32 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\keranjang.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('keranjang', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(334): view('keranjang')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->keranjang()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 18:29:33 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\keranjang.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('keranjang', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(334): view('keranjang')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->keranjang()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 18:29:34 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\keranjang.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('keranjang', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(334): view('keranjang')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->keranjang()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-02-28 18:29:35 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\keranjang.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('keranjang', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(334): view('keranjang')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->keranjang()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 18:29:58 --> Column 'keranjang' cannot be null
+CRITICAL - 2024-02-28 18:29:58 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\keranjang.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('keranjang', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(334): view('keranjang')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->keranjang()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-28 18:30:45 --> Column 'keranjang' cannot be null
+CRITICAL - 2024-02-28 18:30:45 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\ukk_richard-main\app\Views\keranjang.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ukk_richard-main\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ukk_richard-main\system\Common.php(1089): CodeIgniter\View\View->render('keranjang', Array, true)
+#4 C:\xampp\htdocs\ukk_richard-main\app\Controllers\Home.php(334): view('keranjang')
+#5 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(832): App\Controllers\Home->keranjang()
+#6 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ukk_richard-main\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ukk_richard-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ukk_richard-main\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
